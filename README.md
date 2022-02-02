@@ -1,17 +1,31 @@
-- 👋 Hi, I’m Ayushi 
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning java and DSA
 
-<!---
-a-tanvi/a-tanvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![GitHub metrics](https://metrics.lecoq.io/a-tanvi)
+<h1 align="center"> Hi, I’m Ayushi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=a-tanvi&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=tru)
+<p align ="center"> <img src="https://komarev.com/ghpvc/?username=a-tanvi&label=Profile%20views&color=0e75b6&style=flat"></p>
+ 
+<br>
+<p align="center">
+<img src="https://i.pinimg.com/originals/35/4c/5f/354c5ff30ee5d5a378932e7baa860fc4.gif" width=600>
+ </p>
+ <br>
+ 
+ <p align="center">
+  <a href="https://github.com/a-tanvi">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=a-tanvi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  
+  <a href="https://github.com/okamimks">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-tanvi&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=a-tanvi&show_icons=true&theme=radical)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-tanvi&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-tanvi&exclude_repo=file-converter&layout=compact&theme=radical)
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=a-tanvi&theme=react-dark" alt="drawing" width="800"/> </p>
